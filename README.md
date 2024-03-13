@@ -8,4 +8,5 @@
 - ⚡ Meus últimos projetos em produção são:
   -   📊 [Agregador de Pesquisas Eleitorais por Religião](https://cebrap.org.br/agregador-de-pesquisas-eleitorais-por-religiao/)
   -   📊 [Agregador de Pesquisas Eleitorais por Gênero e Raça](https://andregerardi-app-agregador-genero-app-agregador-genero-syb7z2.streamlit.app/)
+  -   📊 [Painel de Organizações Religiosas da base de CNJP](https://cebrap.org.br/organizacoes-e-associacoes-religiosas-no-brasil/)
 
